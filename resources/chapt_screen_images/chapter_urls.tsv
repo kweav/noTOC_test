@@ -1,6 +1,7 @@
 url	chapt_title	img_path
 https://kweav.github.io/noTOC_test/index.html	About this Course	./resources/chapt_screen_images/index.png
-https://kweav.github.io/noTOC_test/introduction.html	1 Introduction	./resources/chapt_screen_images/introduction.png
-https://kweav.github.io/noTOC_test/a-new-chapter.html	2 A new chapter	./resources/chapt_screen_images/a-new-chapter.png
+https://kweav.github.io/noTOC_test/introduction-test.html	1 Introduction Test	./resources/chapt_screen_images/introduction-test.png
+https://kweav.github.io/noTOC_test/introduction.html	2 Introduction	./resources/chapt_screen_images/introduction.png
+https://kweav.github.io/noTOC_test/a-new-chapter.html	3 A new chapter	./resources/chapt_screen_images/a-new-chapter.png
 https://kweav.github.io/noTOC_test/about-the-authors.html	About the Authors	./resources/chapt_screen_images/about-the-authors.png
-https://kweav.github.io/noTOC_test/references.html	3 References	./resources/chapt_screen_images/references.png
+https://kweav.github.io/noTOC_test/references.html	4 References	./resources/chapt_screen_images/references.png
