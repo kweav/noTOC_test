@@ -1,8 +1,15 @@
 available-course-formats
-introduction
+introduction-test
 motivation
 target-audience
 curriculum
+objectives
+how-to-use-the-course
+where-do-you-need-to-invest
+introduction
+motivation-1
+target-audience-1
+curriculum-1
 a-new-chapter
 learning-objectives
 libraries
